@@ -29,7 +29,8 @@ favicon: "./assets/img/favicon.ico"
 
 # Build settings
 theme:
-plugins:
+plugins: 
+  - jekyll-sass-converter
 
 # Exclude from processing
 # The following items will not be processed, by default.
