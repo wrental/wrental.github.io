@@ -21,13 +21,11 @@
 title: wrensite
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  welcome to my little corner of the internet!
-  this is where i will end up documenting and sharing most of what i would
-  otherwise share on socials (e.g. instagram), though i will likely keep both
-  avenues open for the forseeable future.
+  TODO - description
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wrental.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  wrental
+github_username: wrental
+favicon: "./assets/img/favicon.ico"
 
 # Build settings
 theme:
