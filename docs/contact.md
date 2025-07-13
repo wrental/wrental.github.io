@@ -3,4 +3,5 @@ title: Contact
 permalink: /contact/
 layout: default
 ---
-# contact info: _____
+## contact:
+actually please don't <3
