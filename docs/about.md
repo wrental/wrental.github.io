@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: about
 permalink: /about/
 ---
 ## who am i? what is this?

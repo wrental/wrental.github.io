@@ -1,14 +1,53 @@
 ---
 ---
+// variables for global use:
+
+// color palette Tsubomi from user fenneltail on color-hex.com
+$tsu-sand: #efc39e;
+$tsu-cream: #ebdbb7;
+$tsu-sage: #c9cbaf;
+$tsu-beige: #ad9779;
+$tsu-brown: #7f705c;
+
+// color palette Hiking Late from user sereilune on color-hex.com
+$hik-black: #18120e;
+$hik-brown: #3e322a;
+$hik-olive: #414c39;
+$hik-steel: #666c80;
+$hik-grey: #808498;
 
 $font-stack: Courier New, monospace;
-$primary-color: #000000;
+
+:root {
+	color-scheme: light dark;
+}
+
+* {
+	overflow: auto;
+}
+
+a {
+	color: inherit;
+	background-color: inherit;
+	text-decoration: inherit;
+}
 
 header {
-  font: 100% $font-stack;
-  color: $primary-color;
+	font: 100% $font-stack;
+	color: light-dark($hik-black, white);
+	background-color: light-dark($tsu-beige, $tsu-brown)
 }
+
 body {
-  font: 100% $font-stack;
-  color: $primary-color;
+	margin: 0px;
+
+	font: 100% $font-stack;
+	color: light-dark($hik-black, $tsu-cream);
+	background-color: light-dark($tsu-cream, $hik-brown);
+}
+
+footer {
+	font: 100% $font-stack;
+	color: white;
+	background: $tsu-brown;
 }
