@@ -1,5 +1,6 @@
 ---
 title: home
+permalink: /
 layout: default
 ---
 ## welcome to my wrensite
