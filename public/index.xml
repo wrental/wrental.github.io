@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>wrental.github.io</title>
+    <link>https://wrental.github.io/</link>
+    <description>Recent content on wrental.github.io</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://wrental.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://wrental.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wrental.github.io/about/</guid>
+      <description>&lt;h2 id=&#34;ah-you-found-me&#34;&gt;Ah! You found me!&lt;/h2&gt;
+&lt;p&gt;Nice to meet you, I&amp;rsquo;m Wren!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a senior Computer/Electrical Engineering student with an affinity for
+side projects, ranging from woodworking to consumer electronics. I would love to
+have a concise portfolio, but the documentation for many of these projects has ended
+up scattered to the winds of my camera roll, local file systems, and cloud storage.
+The goal is to make this site into the consolidated gallery these projects deserve.
+Until then, check out the &lt;a href=&#34;https://wrental.github.io/projects&#34;&gt;projects&lt;/a&gt; page to see what I&amp;rsquo;ve been up to!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>custom speakers</title>
+      <link>https://wrental.github.io/projects/custom-speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wrental.github.io/projects/custom-speakers/</guid>
+      <description>&lt;h3 id=&#34;find-this-project-on-github&#34;&gt;Find this project on &lt;a href=&#34;https://github.com/wrental/project-custom-speakers&#34;&gt;Github&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>nintendo swiitch</title>
+      <link>https://wrental.github.io/projects/swiitch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wrental.github.io/projects/swiitch/</guid>
+      <description>&lt;h3 id=&#34;find-this-project-documented-with-sway&#34;&gt;Find this project documented with &lt;a href=&#34;https://sway.cloud.microsoft/07gpRQXlgIThf7NW&#34;&gt;Sway&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Additional in-progress insights can be found on my &lt;a href=&#34;https://bitbuilt.net/forums/index.php?threads/portable-1-a-swiitch-wrendition.6079/&#34;&gt;BitBuilt forum log&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

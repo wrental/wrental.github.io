@@ -1,0 +1,37 @@
+baseURL: https://wrental.github.io
+languageCode: en-us
+title: wrental.github.io
+theme: hugo-PaperMod
+
+menu:
+
+  main:
+    - identifier: about
+      name: about
+      url: /about
+      weight: 10
+    - identifier: projects
+      name: projects
+      url: /projects
+      weight: 20
+
+
+# PaperMod setup
+params:
+
+  defaultTheme: dark
+
+  profileMode:
+    enabled: true
+    title: "Wren Sobo" # optional default will be site title
+    subtitle: "welcome to my little corner of the internet"
+    imageUrl: "/blanket_cat.jpg" # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 180 # custom size
+    imageHeight: 180 # custom size
+
+  socialIcons: # optional
+    - name: github
+      url: https://github.com/wrental
+    - name: linkedin
+      url: https://linkedin.com/in/wren-sobo
