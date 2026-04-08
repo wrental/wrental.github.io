@@ -6,7 +6,7 @@ theme: hugo-PaperMod
 # Github Pages
 caches:
   images:
-    dir: cacheDir/images
+    dir: :cacheDir/images
 
 # Main manu entries
 menu:
